@@ -67,7 +67,7 @@
         <version.mockito>2.23.0</version.mockito>
         <version.plugin.clean>3.0.0</version.plugin.clean>
         <version.plugin.bundle>3.5.0</version.plugin.bundle>
-        <version.plugin.compiler>3.8.0</version.plugin.compiler>
+        <version.plugin.compiler>3.8.1</version.plugin.compiler>
         <version.plugin.install>2.5.2</version.plugin.install>
         <version.plugin.deploy>2.8.2</version.plugin.deploy>
         <version.plugin.staging>1.6.8</version.plugin.staging>
